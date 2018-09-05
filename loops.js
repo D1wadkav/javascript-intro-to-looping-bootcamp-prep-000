@@ -1,5 +1,6 @@
 function forLoop(arg) {
-  for (var i = 1; i < 100; i++) {
-  arg[i] = "";
+  for (var i = 0; i < 25; i++) {
+  arg[i] = "I am ${i} strange loop.";
 }
+return
 }
