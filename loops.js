@@ -26,5 +26,5 @@ function incrementVariable() {
 do {
   
   incrementVariable();
-} while (i > arr.legth);
+} while (i > arr.length);
 }
