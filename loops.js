@@ -1,7 +1,7 @@
 function forLoop(arg) {
   for (var i = 0; i < 25; i++) {
-  if {
-   
+  if (i = 1) {
+   arg[i] = 
   }else arg[i] = "I am ${i} strange loop.";
 }
 return arg
