@@ -17,8 +17,9 @@ function whileLoop(num) {
 }
 
 function doWhileLoop(arr) {
+  
   do {
-  console.log("doo-bee-doo-bee-doo");
+  
   incrementVariable();
 } while (i < 5);
 }
