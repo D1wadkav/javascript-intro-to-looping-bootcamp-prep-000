@@ -28,4 +28,5 @@ do {
   arr.pop();
   incrementVariable();
 } while (arr.length > i && incrementVariable());
+return arr
 }
