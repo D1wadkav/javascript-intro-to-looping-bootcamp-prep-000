@@ -3,8 +3,8 @@ function forLoop(arg) {
   if (i === 1) {
    arg.push("I am 1 strange loop.");
   } else {
-    arg.push('I am ${i} strange loops.'); 
+    arg.push(`I am ${i} strange loops.`); 
   }
 }
-return arg[]
+return arg
 }
