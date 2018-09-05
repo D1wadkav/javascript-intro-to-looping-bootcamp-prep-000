@@ -27,5 +27,5 @@ function incrementVariable() {
 do {
   arr.pop();
   incrementVariable();
-} while (arr.length > i);
+} while (arr.length > i && incrementVariable());
 }
