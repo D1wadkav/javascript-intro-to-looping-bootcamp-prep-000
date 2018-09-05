@@ -6,5 +6,5 @@ function forLoop(arg) {
     arg.push('I am ${i} strange loops.'); 
   }
 }
-return arg
+return arg[]
 }
